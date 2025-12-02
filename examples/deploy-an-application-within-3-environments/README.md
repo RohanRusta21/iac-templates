@@ -1,6 +1,6 @@
 # Deploy an Application and Database within 3 environments (Production, Staging, Dev)
 
-This ready to use example show you how to deploy a containerizes app (Strapi) with PostgreSQL on AWS in Production, Staging and Dev and make it accessible via HTTPS. All of that in just a few lines of IaC configuration (compatible with both Terraform and OpenTofu).
+This ready to use example show you how to deploy a containerized app (Strapi) with PostgreSQL on AWS in Production, Staging and Dev and make it accessible via HTTPS. All of that in just a few lines of IaC configuration (compatible with both Terraform and OpenTofu).
 
 ## Behind the scene
 
